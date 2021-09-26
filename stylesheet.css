@@ -1,3 +1,16 @@
-.title {
-    color: red;
+header {
+    height:50px;
+    width:1000px;
+}
+
+.header-logo{
+ float:left;
+ width:100px;
+ margin:10px 0;
+ background-color:black;
+ color:white;
+}
+
+.header-list{
+    float:right
 }
